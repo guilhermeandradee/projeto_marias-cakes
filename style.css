@@ -94,11 +94,11 @@ main {
 }
 
 nav#botoes {
-    margin: 30px auto;
     text-align: center;
     display: block;
     max-width: 500px;
-    min-width: 500px;
+    max-height: 20px;
+    margin: 25px auto;
 }
 
 nav#botoes a {
@@ -107,8 +107,8 @@ nav#botoes a {
     text-decoration: none;
     color: black;
     background-color: #dbb4a4;
-    padding: 15px 55px;
     margin: 15px 30px;
+    padding: 15px 40px;
 }
 
 
