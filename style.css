@@ -33,14 +33,13 @@ body {
     height: 100vh;
     
     background-size: cover;
-    background: #fcdccf url(imagens/1985619-rosa-claro-azul-cenario-com-cumulos-vetor.jpg) center center no-repeat fixed;
+    background: #fcdccf;
 }
 
 #botoes_header {
     font-family: 'lato';
     font-weight: bold;
     max-width: 250px;
-   /* min-width: ;*/
     text-align: right;
     margin: 25px 20px 10px auto;
 }
@@ -65,7 +64,7 @@ header {
     max-height: 155px;
     min-width: 96%;
     background-color: var(--cor1);
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.555);
+  /*  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.555);*/
 
 }
 
@@ -91,7 +90,6 @@ header > h2 {
 }
 
 nav#botoes {
-   /* background-color: cadetblue; tirar*/
     text-align: center;
     display: block;
     max-width: 500px;
