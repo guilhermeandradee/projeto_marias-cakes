@@ -94,12 +94,12 @@ main {
 }
 
 nav#botoes {
-    background-color: cadetblue; /*tirar*/
+   /* background-color: cadetblue; tirar*/
     text-align: center;
     display: block;
     max-width: 500px;
     max-height: 20px;
-   /* margin: 25px auto;*/
+    margin: 25px auto;
 }
 
 nav#botoes a {
@@ -108,7 +108,6 @@ nav#botoes a {
     text-decoration: none;
     color: black;
     background-color: #dbb4a4;
-    margin: 15px auto;
     padding: 15px 40px;
 }
 
@@ -119,6 +118,13 @@ nav#botoes a:hover {
     transition-duration: 0.3s;
 }
 
+.botao_cardapio {
+    margin-right: 15px;
+}
+
+.botao_insta {
+    margin-left: 15px;
+}
 
 
 .botao {
