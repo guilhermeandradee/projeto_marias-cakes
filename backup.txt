@@ -1,0 +1,14 @@
+<nav id="botoes">
+            <a class="botao botao_cardapio" href="https://l.instagram.com/?u=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D5511975660622&e=ATNsLKM3sI6T8-pE0Vi9Mv3uK7KxrkbFNXOrKCGKF1YbB0_jJGO2nV7icsmlvL3nl0aH12szxyrH6gJXjTsEIPg&s=1">Cardapio</a>
+            <a class="botao botao_insta" href="https://www.instagram.com/mariascakes_sweetdream/">Veja as Fotos</a>
+        </nav>
+    </main>
+    <picture>
+
+    </picture>
+    <footer>
+        
+    </footer>
+        
+</body>
+</html>
